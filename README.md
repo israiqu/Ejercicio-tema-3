@@ -1,18 +1,19 @@
-## Getting Started
+# Ejercicios tema 3
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Primera parte:
 
-## Folder Structure
+- Crear una función con tres parámetros que sean números que se suman entre sí.
 
-The workspace contains two folders by default, where:
+- Llamar a la función en el main y darle valores.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Segunda parte:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Crear una clase coche.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Dentro de la clase coche, una variable numérica que almacene el número de puertas que tiene.
 
-## Dependency Management
+- Una función que incremente el número de puertas que tiene el coche.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Crear un objeto miCoche en el main y añadirle una puerta.
+
+- Mostrar el número de puertas que tiene el objeto.
